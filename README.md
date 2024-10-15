@@ -3,14 +3,6 @@
 
 <h1>Playlist</h1>
 
-<h3>Farah Al Fahim:</h3>
-
-https://youtube.com/playlist?list=PLBu7-uQsI3zLdlToPKm6Yzb76SlavoPBb&si=onWohM22UEIiEnmT
-
-<h3>Modhumonty Das</h3>
-
-https://youtube.com/playlist?list=PLp7yhNWDuCSDtXcsGIiMBNGmNctbSeiDx&si=Lwkz2UYhrjhaJZdx
-
 <h3>SFF</h3>
 
 https://youtube.com/playlist?list=PLBu7-uQsI3zLdlToPKm6Yzb76SlavoPBb&si=mqbTi67PY8SPL1gc
@@ -26,6 +18,10 @@ https://youtube.com/playlist?list=PLCh3_NUqW7_KVbFD7136as7rXInRVxDn4&si=pQF2bEEg
 <h3>PNP</h3>
 
 https://youtube.com/playlist?list=PLgoku7dHsmSylpAFgIllmo8-0n0-22i-P&si=EOZGJjaJrXR4SPk9
+
+<h3>Modhumonty Das</h3>
+
+https://youtube.com/playlist?list=PLp7yhNWDuCSDtXcsGIiMBNGmNctbSeiDx&si=Lwkz2UYhrjhaJZdx
 
 <h3>Recursion</h3>
 
