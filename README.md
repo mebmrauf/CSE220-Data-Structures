@@ -1,6 +1,18 @@
 # CSE 220: Data Structures
 <p>Introduction to widely used and effective methods of data organisation, focussing on data structures, their algorithms and the performance of these algorithms. Concepts and examples, elementary data objects, elementary data structures, arrays, lists, stacks, queues, graphs, trees, compound structures, data abstraction and primitive operations on these structures. memory management; sorting and searching; hash techniques; Introduction to the fundamental algorithms and data structures: recursion, backtrack search, lists, stacks, queues, trees, operation on sets, priority queues, graph dictionary. Introduction to the analysis of algorithms to process the basic structures. A brief introduction to database systems and the analysis of data structure performance and use in these systems.</p> 
 
+# Course Objectives
+
+1. Teach students the basics of circular array and advantage(s) of it over a linear array
+
+2. Demonstrate the construction and manipulation of different types of linked lists
+
+3. Introduce the students to stack and queue data structures and explain how they are implemented
+
+4. Discuss the fundamental concept of recursion so that they can build recursive models for simple problems.
+
+5. Discuss trees and explain related algorithms
+
 <h1>Playlist</h1>
 
 <h3>SFF</h3>
